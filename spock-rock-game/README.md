@@ -1,1 +1,1 @@
-Desinged using javascript DOM manipulation. This designed game contains 2 players in which one is computer.
+Desinged using javascript DOM manipulation. This designed game contains 2 players in which one is computer. Also contains confetti. js which is a vanilla JS library for creating a configurable, high-performance confetti falling animation using HTML5 canvas 
